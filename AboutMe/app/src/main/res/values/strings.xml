@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Masum Billah</string>
+    <string name="Welcome_icon">Welcome Icon</string>
+    <string name="bio">
+        Hi,I am Masum Billah.
+        \n\nI am a peach loving person. I love Islam.
+        \nMy favourite person in the world is my mom. My favourite color is Light Blue.
+         My favourite dish is Chicken Burger, kalavuna(beef) etc. I also like oil fried food for evening.
+        \nMy Educational qualifications are very bad. I have no GPA 5 in any public examination.
+        It is a sorrowfull matter for me and my family members. I have no big achievement in my entire life.
+        The only achievement of mine is to get chance into different public Universities. Among all the universities,
+         I selected RU to study in CSE.
+        \nCurrently, I am studying at Computer Science &amp; Engineering.
+        \nUniversity of Rajshahi, Bangladesh.
+    </string>
+    <string name="What_is_your_nickname">What is your nickname?</string>
+    <string name="Done">Done</string>
+</resources>
